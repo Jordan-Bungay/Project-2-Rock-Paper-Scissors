@@ -1,6 +1,26 @@
 /* Font family */
 @import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
 /* General styles */
+body {
+    background-color: #a30303;
+}
+
 h1 {
     font-family: 'Permanent Marker';
+}
+
+/* Game title area */
+.title {
+    background-color: black;
+    width: 45%;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-top: 30px;
+}
+
+#title {
+    color: #eb0505;
+    font-size: x-large;
 }
