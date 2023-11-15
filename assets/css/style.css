@@ -43,8 +43,3 @@ body {
     margin-bottom: 4px;
     font-size: 60%;
 }
-
-/* Instructions content */
-#Instructions-content {
-    display: none;
-}
