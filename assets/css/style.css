@@ -44,3 +44,33 @@ body {
     font-size: 60%;
 }
 
+/* Game area */
+#game-section {
+    text-align: center;
+}
+
+.game-options {
+    width: 10%;
+    height: 10%;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.battle-icons {
+    width: 7%;
+    height: 7%;
+    padding-bottom: 10px;
+}
+
+.funny-picture {
+    width: 10%;
+    height: 10%;
+}
+
+@media screen and (max-width:767px) {
+    /* Funny pictures */
+    .funny-picture {
+        display: none;
+    }
+}
