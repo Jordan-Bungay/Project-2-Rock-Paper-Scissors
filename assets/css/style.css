@@ -109,6 +109,26 @@ body {
     height: 75%;
 }
 
+@media screen and (min-width:768px) {
+    /* Game title area */
+    .title-section {
+        width: 70%;
+    }
+
+    #title {
+        font-size: 160%;
+    }
+
+    /* Instructions */
+    .instructions-button {
+        width: 30%;
+    }
+    
+    .drop-down-button-label {
+        font-size: 80%;
+    }
+}
+
 @media screen and (max-width:767px) {
     /* Funny pictures */
     .funny-picture-2 {
