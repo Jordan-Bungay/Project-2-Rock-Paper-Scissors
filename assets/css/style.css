@@ -127,6 +127,17 @@ body {
     .fighter-selection-title {
             font-size: 160%;
     }
+
+    .game-options {
+    width: 15%;
+    height: 15%;
+    }
+    
+    .battle-icons {
+    width: 10%;
+    height: 10%;
+    margin: 25px;
+    }
 }
 
 @media screen and (max-width:767px) {
