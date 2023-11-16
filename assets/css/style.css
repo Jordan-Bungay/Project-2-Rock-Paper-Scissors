@@ -97,9 +97,21 @@ body {
     font-size: 120%;
 }
 
+/* Funny pictures */
+.funny-picture-1 {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.funny-picture-1-unique {
+    width: 75%;
+    height: 75%;
+}
+
 @media screen and (max-width:767px) {
     /* Funny pictures */
-    .funny-picture {
+    .funny-picture-2 {
         display: none;
     }
 }
