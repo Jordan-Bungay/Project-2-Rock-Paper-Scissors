@@ -72,11 +72,6 @@ body {
     padding-bottom: 25px;
 }
 
-.funny-picture {
-    width: 10%;
-    height: 10%;
-}
-
 /* Round outcome and score tally section */
 .section-background {
     background-color: black;
@@ -126,6 +121,11 @@ body {
     
     .drop-down-button-label {
         font-size: 80%;
+    }
+
+    /* Game area */
+    .fighter-selection-title {
+            font-size: 160%;
     }
 }
 
