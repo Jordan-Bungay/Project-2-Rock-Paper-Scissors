@@ -27,7 +27,7 @@ body {
 /* Instructions */
 .instructions-button {
     background-color: black;
-    width: 70%;
+    width: 50%;
     display: flex;
     justify-content: center;
     margin: auto;
