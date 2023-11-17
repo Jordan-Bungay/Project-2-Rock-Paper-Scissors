@@ -125,18 +125,15 @@ body {
 
     /* Game area */
     .fighter-selection-title {
-            font-size: 160%;
+        font-size: 160%;
     }
 
     .game-options {
-    width: 15%;
-    height: 15%;
+
     }
     
     .battle-icons {
-    width: 10%;
-    height: 10%;
-    margin: 25px;
+        
     }
 }
 
