@@ -135,6 +135,24 @@ body {
         width: 80px;
         margin-top: 42px;
     }
+
+    /* Funny pictures */
+    #side-by-side {
+        display: flex;
+        justify-content: center;
+    }
+
+    .funny-picture-1 {
+        
+    }
+    
+    .funny-picture-1-unique {
+        
+    }
+
+    .funny-picture-2 {
+
+    }
 }
 
 @media screen and (max-width:767px) {
