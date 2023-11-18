@@ -138,7 +138,7 @@ body {
     /* Funny pictures */
     #side-by-side {
         display: flex;
-        justify-content: center;
+        justify-content: space-evenly;
     }
     
     #funny-picture-1-unique {
