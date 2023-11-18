@@ -94,7 +94,6 @@ body {
 .funny-picture-1 {
     display: flex;
     justify-content: center;
-    width: 100%;
 }
 
 #funny-picture-1-unique {
@@ -143,11 +142,18 @@ body {
     }
     
     #funny-picture-1-unique {
-        width: 90%;
+        width: 330px;
+        height: 330px;
     }
 
     #funny-picture-2-unique {
-        width: 90%;
+        width: 330px;
+        height: 330px;
+    }
+
+    .funny-picture-1 {
+        display: flex;
+        justify-content: center;
     }
 }
 
