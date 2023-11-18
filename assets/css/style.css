@@ -97,7 +97,7 @@ body {
     width: 100%;
 }
 
-.funny-picture-1-unique {
+#funny-picture-1-unique {
     width: 75%;
     height: 75%;
 }
@@ -141,17 +141,13 @@ body {
         display: flex;
         justify-content: center;
     }
-
-    .funny-picture-1 {
-        
-    }
     
-    .funny-picture-1-unique {
-        
+    #funny-picture-1-unique {
+        width: 90%;
     }
 
-    .funny-picture-2 {
-
+    #funny-picture-2-unique {
+        width: 90%;
     }
 }
 
