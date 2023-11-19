@@ -35,3 +35,16 @@ function setWinner(player, computer) {
     }
     return result;
 }
+
+// Score tally Win, Lose, Draw
+function updateWin() {
+    document.getElementById('win').textContent = win;
+}
+
+function updateLose() {
+    document.getElementById('lose').textContent = lose;
+}
+
+function updateDraw() {
+    document.getElementById('draw').textContent = draw;
+}
