@@ -5,6 +5,11 @@ let win = 0;
 let lose = 0;
 let draw = 0;
 
+// Event listener to choose your option
+document.getElementById('rock').addEventListener('click', () => makePlayerChoice('rock'));
+document.getElementById('paper').addEventListener('click', () => makePlayerChoice('paper'));
+document.getElementById('scissors').addEventListener('click', () => makePlayerChoice('scissors'));
+
 // Deciding a winner
 function setWinner(player, computer) {
     let result = '';
