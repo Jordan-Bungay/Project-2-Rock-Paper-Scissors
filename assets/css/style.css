@@ -70,24 +70,29 @@ body {
     margin-top: 26px;
 }
 
-/* Round outcome and score tally section */
-.section-background {
+/* Round outcome section */
+.section-background-round-outcome {
     background-color: black;
     border-radius: 12px;
     text-align: center;
     margin-top: 50px;
-    display: flex;
-    justify-content: space-evenly;
-    color: white;
 }
 
-/* Round outcome section */
 #round-outcome {
     color: #eb0505;
     font-size: 200%;
 }
 
 /* score tally section */
+.section-background-score-tally {
+    background-color: black;
+    border-radius: 12px;
+    text-align: center;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
 .score-tally {
     color: white;
     font-size: 120%;
