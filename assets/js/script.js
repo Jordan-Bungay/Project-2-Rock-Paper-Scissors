@@ -11,6 +11,24 @@ document.getElementById('rock').addEventListener('click', () => makePlayer('rock
 document.getElementById('paper').addEventListener('click', () => makePlayer('paper'));
 document.getElementById('scissors').addEventListener('click', () => makePlayer('scissors'));
 
+// Display the player and computer choices
+function displayOptions(player, computer) {
+    let message = `${player} ${computer}`;
+    document.getElementById('options').textContent = message;
+}
+
+// Playng out the game
+function gameStart() {
+    computerChoosing = true;
+    setTimeout(() => {
+        computer = generateComputer();
+        displayOptions(`${player}`, ` vs. ${computer}`);
+        let result = decideWinner(player, computer);
+        displayMessage(result);
+        computerChoosing = false;
+    }, 1000);
+}
+
 // Function to choose your option
 function makePlayer(option) {
     if (!computerChoosing) {
@@ -73,3 +91,10 @@ function updateLose() {
 function updateDraw() {
     document.getElementById('draw').textContent = draw;
 }
+
+// Display a message
+function displayMessage(message) {
+    document.getElementById('result').textContent = message;
+}
+
+
