@@ -22,7 +22,7 @@ function gameStart() {
     computerChoosing = true;
     setTimeout(() => {
         computer = generateComputer();
-        displayOptions(`${player}`, ` vs. ${computer}`);
+        displayOptions(`Player chose ${player}!`, ` vs. Computer chose ${computer}!`);
         let result = decideWinner(player, computer);
         displayMessage(result);
         computerChoosing = false;
