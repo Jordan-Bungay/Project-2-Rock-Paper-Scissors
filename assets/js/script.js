@@ -4,11 +4,17 @@ let computer = null;
 let win = 0;
 let lose = 0;
 let draw = 0;
+let computerChoosing = false;
 
 // Event listener to choose your option
-document.getElementById('rock').addEventListener('click', () => makePlayerChoice('rock'));
-document.getElementById('paper').addEventListener('click', () => makePlayerChoice('paper'));
-document.getElementById('scissors').addEventListener('click', () => makePlayerChoice('scissors'));
+document.getElementById('rock').addEventListener('click', () => makePlayer('rock'));
+document.getElementById('paper').addEventListener('click', () => makePlayer('paper'));
+document.getElementById('scissors').addEventListener('click', () => makePlayer('scissors'));
+
+// Function to choose your option
+function makePlayer(option) {
+    if (!)
+}
 
 // Deciding a winner
 function setWinner(player, computer) {
