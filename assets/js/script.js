@@ -13,7 +13,12 @@ document.getElementById('scissors').addEventListener('click', () => makePlayer('
 
 // Function to choose your option
 function makePlayer(option) {
-    if (!)
+    if (!computerChoosing) {
+        player = option;
+        displayOptions(`Fighter ${option} your up!`, "");
+        displayMessage("");
+        gameStart();
+    }
 }
 
 // Deciding a winner
