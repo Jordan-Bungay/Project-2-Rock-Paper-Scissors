@@ -21,8 +21,17 @@ function makePlayer(option) {
     }
 }
 
+// Function for computer option
+function generateComputer() {
+    if {
+        let options = ['rock', 'paper', 'scissors'];
+        let randomOption = Math.floor(Math.random() * options.length);
+        return options[randomOption]
+    }
+}
+
 // Deciding a winner
-function setWinner(player, computer) {
+function decideWinner(player, computer) {
     let result = '';
     if (player === computer) {
         result = 'Draw!';
