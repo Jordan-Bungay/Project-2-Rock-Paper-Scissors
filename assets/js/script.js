@@ -23,7 +23,7 @@ function makePlayer(option) {
 
 // Function for computer option
 function generateComputer() {
-    if {
+    if (player) { 
         let options = ['rock', 'paper', 'scissors'];
         let randomOption = Math.floor(Math.random() * options.length);
         return options[randomOption]
