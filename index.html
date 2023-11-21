@@ -4,24 +4,29 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <!-- Search engine results -->
     <meta name="description" content="play rock paper scissors, rock paper scissors game">
     <meta name="keywords" content="rock, paper, scissors, computer, game">
+
     <!-- Stylesheet -->
     <link rel="stylesheet" href="assets/css/style.css">
+
     <!-- Title -->
     <title>ROCK X PAPER X SCISSORS</title>
 </head>
+
 <body>
     <!-- Game Title -->
     <section class="title-section">
         <h1 id="title" class="heading1">ROCK X PAPER X SCISSORS</h1>
     </section>
+
     <!-- Instructions -->
-    <div class="instructions-button">
-        <input type="checkbox" name="drop-down-button" id="drop-down-button">
-        <label for="drop-down-button" class="drop-down-button-label"><i class="fa-solid fa-circle-info"></i> Instructions</label>
+    <div class="instructions">
+        <button class="instructions-button"><i class="fa-solid fa-circle-info"></i> Instructions</button>
     </div>
+
     <!-- Game area -->
     <div>
         <h1 class="heading1 fighter-selection-title">Choose Your Fighter!</h1>
@@ -43,6 +48,7 @@
             <img src="assets/images/rock-paper-scissors-battle-scissors.webp" alt="Picture of scissors option" class="game-options" id="scissors">
         </div>
     </div>
+
     <!-- Round outcome section -->
     <div class="section-background-round-outcome">
         <h1 class="heading1" id="round-outcome">Round Outcome</h1>
@@ -51,6 +57,7 @@
         <p id="options"></p>
         <p id="result"></p>
     </div>
+
     <!-- Score tally -->
     <div class="section-background-score-tally">
         <div class="score-tally-div">
@@ -66,6 +73,7 @@
             <h1 class="heading1 score-tally" id="draw">0</h1>
         </div>
     </div>
+
     <!-- Funny pictures -->
     <div id="side-by-side">
         <div class="funny-picture-1">
@@ -76,6 +84,7 @@
             <img src="assets/images/rock-paper-scissors-battle-2_1.webp" alt="Picture of rock paper scissors battle" id="funny-picture-2-unique">
         </div>
     </div>
+    
     <!-- js script -->
     <script src="assets/js/script.js"></script>
 
