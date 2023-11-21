@@ -34,13 +34,6 @@ body {
     border-radius: 0px 0px 12px 12px;
 }
 
-.instructions-button {
-    color: #ffffff;
-    margin-top: 2px;
-    margin-bottom: 4px;
-    font-size: 60%;
-}
-
 /* Game area */
 .fighter-selection-title {
     margin-bottom: 0;
