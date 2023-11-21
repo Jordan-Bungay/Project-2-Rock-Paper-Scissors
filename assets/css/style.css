@@ -83,6 +83,12 @@ body {
     font-size: 200%;
 }
 
+#game-text {
+    text-align: center;
+    color: #c9c9c9;
+    font-family: 'Permanent Marker';
+}
+
 /* score tally section */
 .section-background-score-tally {
     background-color: black;
