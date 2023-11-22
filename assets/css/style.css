@@ -50,6 +50,11 @@ body {
     text-align: center;
 }
 
+.instructions-background-color {
+    background-color: black;
+    padding: 40px;
+}
+
 /* Game area */
 .fighter-selection-title {
     margin-bottom: 0;
