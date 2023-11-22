@@ -151,6 +151,10 @@ body {
         font-size: 90%;
     }
 
+    #instructions-background-color {
+        padding: 0 30px 18px 30px;
+        }
+
     #how-to-play {
         font-size: 100%;
     }
