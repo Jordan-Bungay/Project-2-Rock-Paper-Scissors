@@ -1,39 +1,125 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# 
 
-Welcome,
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+![Preview for the website on different screen sizes]()
 
-## Codeanywhere Reminders
+### The live website can be seen by clicking [here]()
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+## UX
 
-`python3 -m http.server`
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+## User stories
 
-`http_server`
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+* 
+* 
+* 
+* 
+* 
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+## Strategy
 
-To log into the Heroku toolbelt CLI:
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+## Scope
 
----
 
-Happy coding!
+
+## Structure
+
+
+
+**Website Sections:**
+
+1. **_:_** 
+2. **_:_** 
+3. **_:_** 
+4. **_:_** 
+5. **_:_** 
+
+## Skeleton
+
+
+
+**Wireframe**
+
+
+
+[Click me]()
+
+[click me]()
+
+[Click me]()
+
+[Click me]()
+
+[Click me]()
+
+[Click me]()
+
+## Surface
+
+
+
+### Color palette used
+
+![Color palette used]()
+
+## Technologies
+
+
+
+## Features
+
+****
+
+* 
+* 
+  
+![]()
+
+## Validator Testing
+
+**HTML**
+  
+  No errors were found when passing through the official [W3C validator]()
+
+**CSS**
+  
+  No errors were found when passing through the official [(Jigsaw) validator]()
+  
+**Accessibility**
+  
+  I confirmed that the colors and fonts chosen are easy to read and accessible by running it through [Lighthouse DevTools]()
+
+## Bugs
+
+
+
+## Deployment
+
+I used the following steps to deploy my project:
+
+* Go to my Github repository.
+* Click on the settings tab.
+* Under General, go to Code and Automation and select 'Pages'.
+* In the Build and Deployment section for Source, select 'Deploy from a branch' from the drop-down list.
+* For Branch, select 'main' from the drop-down list and Save.
+* On the top of the page, the link to the complete website is provided.
+
+## Credit
+
+### Pictures
+
+* icon used are from "https://fontawesome.com/"
+
+### Content
+
+* 
+
+### Acknowledgements
+
+* 
