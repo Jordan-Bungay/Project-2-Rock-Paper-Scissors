@@ -48,6 +48,7 @@ body {
     background-color: rgba(0, 0, 0, 0.4);
     color: white;
     text-align: center;
+    font-size: 80%;
 }
 
 .instructions-background-color {
@@ -142,6 +143,10 @@ body {
     /* Instructions */
     #instructions-button {
         font-size: 90%;
+    }
+
+    #how-to-play {
+        font-size: 100%;
     }
 
     /* Game area */
