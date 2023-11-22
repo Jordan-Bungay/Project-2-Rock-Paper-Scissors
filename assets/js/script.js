@@ -93,7 +93,7 @@ function decideWinner(player, computer) {
     return result;
 }
 
-// Score tally Win, Lose, Draw
+// Updates score tally Win, Lose, Draw
 function updateWin() {
     document.getElementById('win').textContent = win;
 }
