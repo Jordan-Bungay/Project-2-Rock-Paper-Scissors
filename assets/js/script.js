@@ -13,11 +13,13 @@ let closeButton = document.getElementById("close-button");
 
 // Instructions section
 instructionsButton.onclick = function() {
-    instructions.style.display = "block"
+    instructions.style.display = "block";
+    instructionsButton.style.display = "none";
 }
 
 closeButton.onclick = function () {
     instructions.style.display = "none";
+    instructionsButton.style.display = "block";
 }
 
 // Event listener to choose your option
