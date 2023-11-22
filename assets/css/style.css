@@ -34,12 +34,14 @@ body {
     font-size: 60%;
     color: white;
     background-color: black;
+    cursor: pointer;
 }
 
 #close-button {
     font-size: 60%;
     color: white;
     background-color: black;
+    cursor: pointer;
 }
 
 #instructions-background-color {
