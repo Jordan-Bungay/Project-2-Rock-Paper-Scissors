@@ -69,6 +69,9 @@ function decideWinner(player, computer) {
     let result = '';
     if (player === computer) {
         result = 'Draw!';
+        result === 'Draw!';
+        draw++;
+        updateDraw();
     } else {
         switch (player) {
             case 'rock':
@@ -87,9 +90,6 @@ function decideWinner(player, computer) {
         } else if (result === 'You Lose...') {
             lose++
             updateLose();
-        } else if (result === 'Draw!') {
-            draw++;
-            updateDraw();
         }
     }
     return result;
