@@ -89,6 +89,7 @@ body {
 
 .game-options {
     width: 50px;
+    cursor: pointer;
 }
 
 .battle-icons {
