@@ -37,6 +37,7 @@ body {
 #how-to-play {
     color: white;
     text-align: center;
+    display: none;
 }
 
 /* Game area */

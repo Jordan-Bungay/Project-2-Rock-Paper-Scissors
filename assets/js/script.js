@@ -11,7 +11,14 @@ let instructions = document.getElementById("how-to-play");
 let instructionsButton = document.getElementById("instructions-button");
 let closeButton = document.getElementById("close-button");
 
-// 
+// Instructions section
+instructionsButton.onclick = function() {
+    instructions.style.display = "block"
+}
+
+closeButton.onclick = function () {
+    instructions.style.display = "none";
+}
 
 // Event listener to choose your option
 document.getElementById('rock').addEventListener('click', () => makePlayer('rock'));
