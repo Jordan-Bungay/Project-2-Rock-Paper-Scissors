@@ -1,10 +1,17 @@
-// Variables
+// Variables for game
 let player = null;
 let computer = null;
 let win = 0;
 let lose = 0;
 let draw = 0;
 let computerChoosing = false;
+
+// Variables for instructions
+let instructions = document.getElementById("how-to-play");
+let instructionsButton = document.getElementById("instructions-button");
+let closeButton = document.getElementById("close-button");
+
+// 
 
 // Event listener to choose your option
 document.getElementById('rock').addEventListener('click', () => makePlayer('rock'));
@@ -96,5 +103,3 @@ function updateDraw() {
 function displayMessage(message) {
     document.getElementById('result').textContent = message;
 }
-
-
