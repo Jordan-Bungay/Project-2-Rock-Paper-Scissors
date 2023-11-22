@@ -36,6 +36,12 @@ body {
     background-color: black;
 }
 
+#close-button {
+    font-size: 60%;
+    color: white;
+    background-color: black;
+}
+
 #instructions-background-color {
     background-color: black;
     padding: 0 10px 10px 10px;
@@ -150,6 +156,10 @@ body {
 
     /* Instructions */
     #instructions-button {
+        font-size: 90%;
+    }
+
+    #close-button {
         font-size: 90%;
     }
 
