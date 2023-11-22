@@ -32,6 +32,8 @@ body {
 
 #instructions-button {
     font-size: 60%;
+    color: white;
+    background-color: black;
 }
 
 #instructions-background-color {
