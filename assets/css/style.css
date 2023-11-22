@@ -25,7 +25,7 @@ body {
     font-size: 115%;
 }
 /* Instructions */
-.instructions {
+#instructions {
     background-color: black;
     width: 50%;
     display: flex;
@@ -117,15 +117,6 @@ body {
 
     #title {
         font-size: 160%;
-    }
-
-    /* Instructions */
-    .instructions-button {
-        width: 30%;
-    }
-    
-    .drop-down-button-label {
-        font-size: 80%;
     }
 
     /* Game area */
