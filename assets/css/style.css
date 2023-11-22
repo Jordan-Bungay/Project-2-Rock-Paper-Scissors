@@ -44,6 +44,10 @@ body {
     cursor: pointer;
 }
 
+.instructions-interactive:hover {
+    opacity: 0.8;
+}
+
 #instructions-background-color {
     background-color: black;
     padding: 0 10px 10px 10px;
