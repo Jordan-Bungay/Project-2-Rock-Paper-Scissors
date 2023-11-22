@@ -124,6 +124,11 @@ body {
         font-size: 160%;
     }
 
+    /* Instructions */
+    #instructions-button {
+        font-size: 90%;
+    }
+
     /* Game area */
     .fighter-selection-title {
         font-size: 160%;
