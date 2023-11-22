@@ -92,6 +92,18 @@ body {
     cursor: pointer;
 }
 
+#rock:hover {
+    opacity: 0.8;
+}
+
+#paper:hover {
+    opacity: 0.8;
+}
+
+#scissors:hover {
+    opacity: 0.8;
+}
+
 .battle-icons {
     height: 30px;
     width: 30px;
