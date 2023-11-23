@@ -45,17 +45,7 @@ I used Figma to create my wireframe for my website. The wireframe shows the very
 
 You can view the screenshots from my wireframe from clicking the following:
 
-[Click me]()
-
-[click me]()
-
-[Click me]()
-
-[Click me]()
-
-[Click me]()
-
-[Click me]()
+[Click me](assets/readme-assets/Project-2-Wireframe.png)
 
 ## Surface
 
