@@ -106,19 +106,30 @@ I have used Figma for the wireframe plan of my website.
 
 ![End result](assets/readme-assets/Finished-product.png)
 
+## Testing
+
+* I tested the site, and it works in different web browsers Chrome, Firefox, and Microsoft Edge.
+* On mobile devices, I tested my site on a iPhone 12 with the Safari browser.
+* I confirmed that the site is responsive and functions on different screen sizes using the devtools device toolbar.
+* I confirmed that all the buttons works, they activate what is supposed to happen when clicked.
+
 ## Validator Testing
 
 **HTML**
   
-  No errors were found when passing through the official [W3C validator]()
+  No errors were found when passing through the official [W3C validator](assets/readme-assets/html-validator.png)
 
 **CSS**
   
-  No errors were found when passing through the official [(Jigsaw) validator]()
+  No errors were found when passing through the official [(Jigsaw) validator](assets/readme-assets/css-validator.png)
+
+**JS**
+
+  No errors were found when passing through the official [Jshint validator](assets/readme-assets/jshint-validator.png)
   
 **Accessibility**
   
-  I confirmed that the colors and fonts chosen are easy to read and accessible by running it through [Lighthouse DevTools]()
+  I confirmed that the colors and fonts chosen are easy to read and accessible by running it through [Lighthouse DevTools](assets/readme-assets/project-2-lighthouse.png)
 
 ## Bugs
 
