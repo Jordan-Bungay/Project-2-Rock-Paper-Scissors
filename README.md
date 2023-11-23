@@ -62,15 +62,49 @@ I have used CSS for the styling and positioning of all the HTML content.
 I have used JS for the functionality of the game and making it playable.
 I have used Figma for the wireframe plan of my website.
 
-
 ## Features
 
-****
+**Title and Instructions**
 
-* 
-* 
+* This section features the title of the game and the button for the instructions.
+* When you click on the instructions button it will bring up a modal with the content on how to play.
   
-![]()
+![Title and Instructions button](assets/readme-assets/Instructions-button.png)
+![Instructions content](assets/readme-assets/Instructions-how-to-play.png)
+
+**Player options**
+
+* This section shows the players options: Rock, Paper and Scissors.
+* This part is interactive it allows you to click on the images to choose your option.
+
+![Player Options](assets/readme-assets/Player-options.png)
+
+**Round outcome**
+
+* This section will display text of the outcome of the battle.
+* It will show what you chose vs what the computer chose.
+* It will then tell you if you won, lost or if it was a draw.
+
+![Round Outcome](assets/readme-assets/Round-outcome.png)
+
+**Score tally**
+
+* This section keeps track of when you win, lose or draw with the computer.
+* It will update the tally when each round is decided.
+
+![Score tally](assets/readme-assets/Score-Tally.png)
+
+**Entertainment images**
+
+* This section just showcases some images for the users entertainment and give a bit of character to the page.
+
+![Entertainment images](assets/readme-assets/Entertainment-images.png)
+
+**End result**
+
+* This is showing the whole page of everything working together.
+
+![End result](assets/readme-assets/Finished-product.png)
 
 ## Validator Testing
 
