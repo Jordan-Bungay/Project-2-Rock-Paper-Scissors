@@ -49,7 +49,7 @@ You can view the screenshots from my wireframe from clicking the following:
 
 ## Surface
 
-
+The Colors I have used in the website are used to match the theme of the images, and matches the main colors seen in the game. The colors I chose worked well together and gave a more exciting feel to the game.
 
 ### Color palette used
 
