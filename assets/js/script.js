@@ -29,7 +29,7 @@ document.getElementById('scissors').addEventListener('click', () => makePlayer('
 function displayOptions(player, computer) {
     let message = `${player} ${computer}`;
     document.getElementById('options').textContent = message;
-};
+}
 
 // Playng out the game
 function gameStart() {
@@ -41,7 +41,7 @@ function gameStart() {
         displayMessage(result);
         computerChoosing = false;
     }, 1000);
-};
+}
 
 // Function to choose your option
 function makePlayer(option) {
@@ -50,17 +50,17 @@ function makePlayer(option) {
         displayOptions(`Fighter ${option} your up!`, "");
         displayMessage("");
         gameStart();
-    };
-};
+    }
+}
 
 // Function for computer option
 function generateComputer() {
     if (player) { 
         let options = ['rock', 'paper', 'scissors'];
         let randomOption = Math.floor(Math.random() * options.length);
-        return options[randomOption]
-    };
-};
+        return options[randomOption];
+    }
+}
 
 // Deciding a winner
 function decideWinner(player, computer) {
@@ -81,32 +81,32 @@ function decideWinner(player, computer) {
             case 'scissors':
                 result = computer === 'paper' ? 'You Win!' : 'You Lose...';
                 break;
-        };
+        }
         if (result === 'You Win!') {
             win++;
             updateWin();
         } else if (result === 'You Lose...') {
             lose++;
             updateLose();
-        };
-    };
+        }
+    }
     return result;
-};
+}
 
 // Updates score tally Win, Lose, Draw
 function updateWin() {
     document.getElementById('win').textContent = win;
-};
+}
 
 function updateLose() {
     document.getElementById('lose').textContent = lose;
-};
+}
 
 function updateDraw() {
     document.getElementById('draw').textContent = draw;
-};
+}
 
 // Display a message
 function displayMessage(message) {
     document.getElementById('result').textContent = message;
-};
+}
