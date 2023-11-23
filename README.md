@@ -1,8 +1,12 @@
-# 
+# Rock, Paper and Scissors game
 
+I have created this rock, paper and scissors game to show my ability to work with html, css and javascript.
 
+Rock, paper and scissors is a game mainly based on luck, you will be given 3 options to choose from to fight against the computer. Rock beats Scissors, Scissors beats Paper and Paper beats Rock.
 
-![Preview for the website on different screen sizes]()
+This game will allow interactivity with the page to click on your options in the game.
+
+![Preview for the website on different screen sizes](assets/readme-assets/project-2-display.png)
 
 ### The live website can be seen by clicking [here]()
 
