@@ -8,7 +8,7 @@ This game will allow interactivity with the page to click on your options in the
 
 ![Preview for the website on different screen sizes](assets/readme-assets/project-2-display.png)
 
-### The live website can be seen by clicking [here]()
+### The live website can be seen by clicking [here](https://jordan-bungay.github.io/Project-2-Rock-Paper-Scissors/)
 
 ## UX
 
