@@ -133,7 +133,7 @@ I have used Figma for the wireframe plan of my website.
 
 ## Bugs
 
-
+A bug I encountered when making the JS was when creating the score tally section it wasn't updating the draw tally, so I had to trial and error and eventually figured out why it wasn't working and managed to fix it. The rule in the function wasn't in the correct place therefor the function wasn't able to see it.
 
 ## Deployment
 
