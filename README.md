@@ -12,17 +12,16 @@ This game will allow interactivity with the page to click on your options in the
 
 ## UX
 
-
+I want this game to be a fun introduction to the rock, paper and scissors game, showing you how its played through a fun interactive way. I want the user to enjoy learning the game through the exciring text and fun buttons to press.
 
 ## User stories
 
+The goal of this game is to get people interested in how to play this game and enjoy playing rock, paper and scissors. The following points are from my user point of view:
 
-
-* 
-* 
-* 
-* 
-* 
+* As a user, I want to learn how to play this game.
+* As a user, I want to be able to play Rock, Paper and Scissors.
+* As a user, I want to be able to play the game without any issues.
+* As a user, I want to play a fun insteractive version of the game.
 
 ## Strategy
 
