@@ -151,11 +151,19 @@ I used the following steps to deploy my project:
 ### Pictures
 
 * icon used are from "https://fontawesome.com/"
+* rock-paper-scissors-battle-1 taken from "https://memebase.cheezburger.com/verydemotivational/tag/rock-paper-scissors"
+* rock-paper-scissors-battle-2 taken from "https://www.pinterest.co.uk/pin/237987161528881940/"
+* rock-paper-scissors-battle-buttons taken from "https://www.freepik.com/premium-vector/character-design-from-game-rock-paper-scissors_69112068.htm"
+* battle icons image taken from "https://www.flaticon.com/free-icon/battle_3522092"
 
 ### Content
 
-* 
+* Some of the code for the JS was taken from the [Love Maths project]
+* Some of the Code for the JS was taken from [RobertAhli rps-project2b]
 
 ### Acknowledgements
 
-* 
+* Inspiration is from [RobertAhli rps-project2b].
+* Ideas were taken from the Code Institute's Love Maths project.
+* The the Code Institute tutor support team for helping me with the correct guidance.
+* My mentor, Medale Oluwafemi, for his invaluable guidance.
