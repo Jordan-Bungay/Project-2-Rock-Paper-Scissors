@@ -53,7 +53,7 @@ The Colors I have used in the website are used to match the theme of the images,
 
 ### Color palette used
 
-![Color palette used]()
+![Color palette used](assets/readme-assets/Project-2-colour-palette.png)
 
 ## Technologies
 
