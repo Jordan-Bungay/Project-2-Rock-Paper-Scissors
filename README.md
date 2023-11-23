@@ -57,10 +57,10 @@ The Colors I have used in the website are used to match the theme of the images,
 
 ## Technologies
 
-I have used HTML for the main page structure, images and text content.
-I have used CSS for the styling and positioning of all the HTML content.
-I have used JS for the functionality of the game and making it playable.
-I have used Figma for the wireframe plan of my website.
+* I have used HTML for the main page structure, images and text content.
+* I have used CSS for the styling and positioning of all the HTML content.
+* I have used JS for the functionality of the game and making it playable.
+* I have used Figma for the wireframe plan of my website.
 
 ## Features
 
